@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=OrderItem
+comment1.params=product\ quantity\ discountPercent
+comment1.target=OrderItem(Product,\ int,\ double)
+comment2.params=
+comment2.target=double\ calculateTotal()
+comment3.params=
+comment3.target=void\ printDetail()
+numComments=4

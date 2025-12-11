@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CoffeeLoyaltyCard
+comment1.params=customerName
+comment1.target=CoffeeLoyaltyCard(java.lang.String)
+comment2.params=amount
+comment2.target=void\ addPurchase(double)
+comment3.params=
+comment3.target=double\ redeemDiscount()
+comment4.params=
+comment4.target=void\ printSummary()
+numComments=5
